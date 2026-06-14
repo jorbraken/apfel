@@ -7,6 +7,8 @@ and this project adheres to [https://semver.org/](https://semver.org/).
 
 ## [Unreleased]
 
+## [1.6.0] - 2026-06-14
+
 ### Added
 
 - `apfel demos [dir]` writes the bundled demo scripts (cmd, explain, oneliner, wtd, naming, port, gitsum, mac-narrator) to a directory. The demos are embedded in the binary, so it behaves identically on homebrew-core, the tap, and source builds (#204).
